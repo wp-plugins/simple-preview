@@ -1,7 +1,7 @@
 === Simple Preview ===
 Contributors: Gabriel Nagmay
 Tags: simple-preview, draft, anonymous, public, post, preview, posts
-Requires at least: 2.7
+Requires at least: 2.7.0
 Tested up to: 2.9.2
 Stable tag: 0.1.5
 
@@ -58,10 +58,7 @@ or
 == Change Log ==
 
 = 0.1.5 =
-Minor updates.
-
-= 0.1.4 =
 Initial release. Has been well tested.
 
-= 0.1.3 =
+= 0.1.4 (2009-10-28): =
 This version (and previous versions) were just used in testing. They weren't event submitted to http://wordpress.org/extend/plugins/
