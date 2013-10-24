@@ -57,8 +57,11 @@ or
 
 == Change Log ==
 
+= 0.1.6 =
+Tested on 3.6+. Cleaned up the code a bit.
+
 = 0.1.5 =
 Initial release. Has been well tested.
 
-= 0.1.4 (2009-10-28): =
+= 0.1.4 =
 This version (and previous versions) were just used in testing. They weren't event submitted to http://wordpress.org/extend/plugins/
