@@ -4,7 +4,7 @@ Plugin Name: Simple Preview
 Plugin URI: http://gabriel.nagmay.com/2009/10/simple-preview/
 Description: Enables you to give a link to anonymous users for public preview of a post before it is published.
 Author: Gabriel Nagmay
-Version: 0.1.5
+Version: 0.1.6
 Author URI: http://gabriel.nagmay.com
 
 /*

@@ -1,9 +1,9 @@
 === Simple Preview ===
 Contributors: Gabriel Nagmay
 Tags: simple-preview, draft, anonymous, public, post, preview, posts
-Requires at least: 2.7.0
+Requires at least: 3.6.1
 Tested up to: 2.9.2
-Stable tag: 0.1.5
+Stable tag: 0.1.6
 
 == Description ==
 
