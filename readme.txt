@@ -1,9 +1,12 @@
 === Simple Preview ===
 Contributors: Gabriel Nagmay
+Donate link: http://www.dreamhost.com/donate.cgi?id=17157
 Tags: simple-preview, draft, anonymous, public, post, preview, posts
-Requires at least: 3.6.1
-Tested up to: 2.9.2
+Requires at least: 2.7
+Tested up to: 3.6.1
 Stable tag: 0.1.6
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
