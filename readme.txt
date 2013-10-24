@@ -1,9 +1,12 @@
 === Simple Preview ===
-Contributors: Gabriel Nagmay
+Contributors: gabrielmcgovern
+Donate link: http://www.dreamhost.com/donate.cgi?id=17157
 Tags: simple-preview, draft, anonymous, public, post, preview, posts
-Requires at least: 3.6.1
-Tested up to: 2.9.2
+Requires at least: 2.7
+Tested up to: 3.6.1
 Stable tag: 0.1.6
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
@@ -57,8 +60,11 @@ or
 
 == Change Log ==
 
+= 0.1.6 =
+Tested on 3.6+. Cleaned up the code a bit.
+
 = 0.1.5 =
 Initial release. Has been well tested.
 
-= 0.1.4 (2009-10-28): =
+= 0.1.4 =
 This version (and previous versions) were just used in testing. They weren't event submitted to http://wordpress.org/extend/plugins/
