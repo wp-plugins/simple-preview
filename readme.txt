@@ -1,5 +1,5 @@
 === Simple Preview ===
-Contributors: Gabriel Nagmay
+Contributors: gabrielmcgovern
 Donate link: http://www.dreamhost.com/donate.cgi?id=17157
 Tags: simple-preview, draft, anonymous, public, post, preview, posts
 Requires at least: 2.7
