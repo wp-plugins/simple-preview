@@ -1,0 +1,5 @@
+Need to do:
+- Bug: authors cannot "preview" posts in normal way when editing. See: http://wordpress.org/support/topic/simple-preview-not-working
+
+Done:
+- Check on WP version 3.6
